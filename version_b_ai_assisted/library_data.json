@@ -1,0 +1,24 @@
+{
+  "books": {
+    "B001": {
+      "book_id": "B001",
+      "title": "Clean Code",
+      "author": "Robert Martin",
+      "copies": 2,
+      "borrowed": 0
+    },
+    "B002": {
+      "book_id": "B002",
+      "title": "The Pragmatic Programmer",
+      "author": "Hunt & Thomas",
+      "copies": 1,
+      "borrowed": 0
+    }
+  },
+  "members": {
+    "M001": {
+      "name": "Asha Perera",
+      "loans": []
+    }
+  }
+}
